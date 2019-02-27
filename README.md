@@ -1,6 +1,6 @@
 # Simple Lottery (HyperLedger Design)
 
-<img src="https://imgur.com/a/xvyNbY2" width="100%" height="100%" border="5">
+<img src="https://imgur.com/JFxOnYU" width="100%" height="100%" border="5">
 
 ##### Step 1: The Application User Enrolls Organizations Certificate Authority (CA)
 ##### Step 2: The Application User Registers the Users
