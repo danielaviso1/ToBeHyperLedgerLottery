@@ -1,11 +1,11 @@
 # Simple Lottery (HyperLedger Design)
 
-<img src="https://imgur.com/JFxOnYU" width="100%" height="100%" border="5">
+<img src="https://i.imgur.com/JFxOnYU.png" width="100%" height="100%" border="5">
 
 ##### Step 1: The Application User Enrolls Organizations Certificate Authority (CA)
 ##### Step 2: The Application User Registers the Users
 ##### Step 3: The Application User calls a Function from Chaincode (Smart Contract)
-##### Step 4: The Application from SDK will then Generates the Transaction Proposal
+##### Step 4: The Application from SDK will then Generate a Transaction Proposal
 ##### and sends it to the required set of Peers for endorsement. Once the Application
 ##### receives the sufficient number of signed proposals -
 ##### Step 5: The Orderer Node will receive the Transaction Proposal, the orderer will
