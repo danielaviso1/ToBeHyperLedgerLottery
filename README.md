@@ -1,6 +1,7 @@
 # Simple Lottery (HyperLedger Design)
 
 <img src="https://i.imgur.com/JFxOnYU.png" width="100%" height="100%" border="5">
+
 ##### Legends
 ###### CA - Certificate of Authority 
 ###### SP - Signed Proposals 
