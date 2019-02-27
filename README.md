@@ -1,6 +1,9 @@
 # Simple Lottery (HyperLedger Design)
 
 <img src="https://i.imgur.com/JFxOnYU.png" width="100%" height="100%" border="5">
+##### Legends
+###### CA - Certificate of Authority | SP - Signed Proposals | Tx - Transaction
+###### Orgs - Organizations
 
 ##### Step 1: The Application User Enrolls Organizations Certificate Authority (CA)
 ##### Step 2: The Application User Registers the Users
